@@ -6,17 +6,19 @@
 >
 >version: v2.23.0
 >
-> 
+>
 >
 >用途说明：快速入门mmdetection框架，针对官网教程结合实验室已有环境编写。
+>
+>注：由于typora导出pdf后相对路径会出问题，所以此文本导出为网页版
 
 
 
-* <a href="./安装MMdetection.md" style="text-decoration:none">Tutorial 1: 安装MMdetection</a>
-* <a href="训练自定义数据集.md" style="text-decoration:none">Tutorial 2: 训练自定义数据集</a>
-* <a href="了解配置文件.md" style="text-decoration:none">Tutorial 3: 了解配置文件</a>
-* <a href="自定义数据集处理.md" style="text-decoration:none">Tutorial 4: 自定义数据集处理</a>
-* <a href="数据预处理流程.md" style="text-decoration:none">Tutorial 5: 数据预处理流程</a>
+* <a href="./安装MMdetection.pdf" style="text-decoration:none">Tutorial 1: 安装MMdetection</a>
+* <a href="训练自定义数据集.pdf" style="text-decoration:none">Tutorial 2: 训练自定义数据集</a>
+* <a href="了解配置文件.pdf" style="text-decoration:none">Tutorial 3: 了解配置文件</a>
+* <a href="自定义数据集处理.pdf" style="text-decoration:none">Tutorial 4: 自定义数据集处理</a>
+* <a href="数据预处理流程.pdf" style="text-decoration:none">Tutorial 5: 数据预处理流程</a>
 
 对于后面的教程我们使用官网的教程：1. 我现在也没真正的实现过新的模块 2. 官方教程也比较通俗全面 3. 这几节内容复制性差，扩展性强，了解了前面几章再结合官网这几章，应该对mmdetection这个框架有了较为深入的认识。
 
